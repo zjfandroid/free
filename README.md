@@ -1,9 +1,13 @@
+![Vistors](https://visitor-badge.laobi.icu/badge?page_id=zjfandroid.free) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
-![Watchers](https://img.shields.io/github/watchers/zjfandroid/free.git) ![Stars](https://img.shields.io/github/stars/zjfandroid/free.git) ![Forks](https://img.shields.io/github/forks/zjfandroid/free.git) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=openrunner.clash-freenode) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+### 目录
+- [Clash/V2Ray 免费节点订阅](#免费节点订阅)
+- [免费资源网站](#免费资源网站)
+- [财务自由](#网站导航)
 
-# Clash/V2Ray 免费节点订阅
-Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上网插件
-此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。
+# 免费节点订阅
+- Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上网插件
+- 此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。
 
 ## 📢 最新订阅地址：
 - https://clashgithub.com/wp-content/uploads/rss/20251120.yml
@@ -46,7 +50,7 @@ Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上�
 # 网站导航
 - https://nav2ai.vercel.app/
 
-# 财务自由-AI交易
+# 财务自由
 - https://nofxai.vercel.app/
 
 ## 🔒 免责声明
