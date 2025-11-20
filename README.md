@@ -52,10 +52,10 @@ https://free.datiya.com/uploads/20251121-v2ray.txt
 - https://www.dygod.net/html/gndy/dyzz/index.html
 
 # 网站导航
-- https://nav2ai.vercel.app/
+- <a href="https://nav2ai.vercel.app/" target="_blank">AI导航</a>
 
 # 财务自由
-- https://nofxai.vercel.app/
+- [AI交易](https://nofxai.vercel.app/)
 
 # 教程
 Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活。#永久免费VPN #永久免费节点
