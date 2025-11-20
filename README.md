@@ -10,26 +10,30 @@
 - 此文档仅供学习和交流之用，不得用于商业目的。请勿将此文档用于非法活动。
 
 ## 📢 最新订阅地址：
-- https://clashgithub.com/wp-content/uploads/rss/20251120.yml
-- 访问 [这里]( https://w1.soxo.top/auth/register?code=bTOM) 获取最新订阅地址
+- 获取最新订阅地址：<a href="https://w1.soxo.top/auth/register?code=bTOM" target="_blank" rel="noopener noreferrer">点击这里</a>
 
 **备用配置：**
-### Clash配置
-- https://free.datiya.com/uploads/20251120-clash.yaml
-### V2ray配置
-- https://free.datiya.com/uploads/20251120-v2ray.txt
+- Clash配置
+```markdown
+- https://free.datiya.com/uploads/20251121-clash.yaml
+- https://clashgithub.com/wp-content/uploads/rss/20251121.yml
+```
+- V2ray配置
+```markdown
+https://free.datiya.com/uploads/20251121-v2ray.txt
+```
 
-**最后更新：** `2025-11-20`
+**最后更新：** `2025-11-21`
 
 ## 🔍 使用指南
 
 ### 新用户入门
-1. 访问 [这里]( https://w1.soxo.top/auth/register?code=bTOM) 获取最新订阅地址
+1. <a href="https://w1.soxo.top/auth/register?code=bTOM" target="_blank" rel="noopener noreferrer">点击这里</a> 获取最新订阅地址
 2. 根据教程下载对应的客户端软件
 3. 导入订阅地址即可使用
 
 ## 🌟 推荐优质付费节点服务
-高速稳定的专业节点服务，访问 [这里]( https://w1.soxo.top/auth/register?code=bTOM)
+高速稳定的专业节点服务:<a href="https://w1.soxo.top/auth/register?code=bTOM" target="_blank" rel="noopener noreferrer">点击这里</a>
 
 ### 为什么选择付费服务？
 🔒 更高安全性 - 专业级加密保护
@@ -40,7 +44,7 @@
 
 # 免费资源网站
 ### 免费游戏资源
-- https://www.gamer520.com/
+- <a href="https://www.gamer520.com/" target="_blank" rel="noopener noreferrer">PC、Switch平台最新游戏免费下载</a>
 ### 免费影视资源
 #### 在线观看
 - https://www.iyf.tv/
@@ -52,6 +56,10 @@
 
 # 财务自由
 - https://nofxai.vercel.app/
+
+# 教程
+Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活。#永久免费VPN #永久免费节点
+- https://www.youtube.com/watch?v=XERxg9AODeo
 
 ## 🔒 免责声明
 仅供个人学习研究使用，禁止用于商业用途
