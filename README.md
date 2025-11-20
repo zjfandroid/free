@@ -3,7 +3,7 @@
 ### 目录
 - [Clash/V2Ray 免费节点订阅](#免费节点订阅)
 - [免费资源网站](#免费资源网站)
-- [财务自由](#网站导航)
+- [财务自由传送门](#财务自由传送门)
 
 # 免费节点订阅
 - Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上网插件
@@ -15,8 +15,8 @@
 **备用配置：**
 - Clash配置
 ```markdown
-- https://free.datiya.com/uploads/20251121-clash.yaml
 - https://clashgithub.com/wp-content/uploads/rss/20251121.yml
+- https://free.datiya.com/uploads/20251121-clash.yaml
 ```
 - V2ray配置
 ```markdown
@@ -32,34 +32,29 @@ https://free.datiya.com/uploads/20251121-v2ray.txt
 2. 根据教程下载对应的客户端软件
 3. 导入订阅地址即可使用
 
-## 🌟 推荐优质付费节点服务
+#### 🌟 推荐优质付费节点服务
 高速稳定的专业节点服务:<a href="https://w1.soxo.top/auth/register?code=bTOM" target="_blank" rel="noopener noreferrer">点击这里</a>
 
-### 为什么选择付费服务？
-🔒 更高安全性 - 专业级加密保护
-⚡ 极致速度 - 独享带宽，稳定高速
-🌍 全球节点 - 覆盖40+国家地区
-🎯 低延迟 - 智能线路优化
-🛡️ 7x24技术支持 - 专业团队实时响应
-
 # 免费资源网站
-### 免费游戏资源
+### 免费资源下载
 - <a href="https://www.gamer520.com/" target="_blank" rel="noopener noreferrer">PC、Switch平台最新游戏免费下载</a>
+- [电影天堂](https://www.dygod.net/html/gndy/dyzz/index.html)
 ### 免费影视资源
-#### 在线观看
-- https://www.iyf.tv/
-#### 下载观看
-- https://www.dygod.net/html/gndy/dyzz/index.html
+- [爱一凡](https://www.iyf.tv/)
 
-# 网站导航
-- <a href="https://nav2ai.vercel.app/" target="_blank">AI导航</a>
-
-# 财务自由
+# 财务自由传送门
+- [宇宙第一虚拟资产交易平台-binance](https://www.maxweb.red/referral/earn-together/refer2earn-usdc/claim?hl=zh-CN&ref=GRO_28502_AUWD7&utm_source=default)
+- [链上第一衍生品交易平台-hyperliquid](https://app.hyperliquid.xyz/join/JFENG)
+- [零门槛买美股-MSX](https://msx.com/?code=SSL261)
+- [新人小白最友好的平台-okx](https://www.okx.com/join/2050388)
 - [AI交易](https://nofxai.vercel.app/)
 
 # 教程
 Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活。#永久免费VPN #永久免费节点
 - https://www.youtube.com/watch?v=XERxg9AODeo
+
+# 网站导航
+- <a href="https://nav2ai.vercel.app/" target="_blank">AI导航</a>
 
 ## 🔒 免责声明
 仅供个人学习研究使用，禁止用于商业用途
