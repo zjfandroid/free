@@ -50,8 +50,9 @@ https://free.datiya.com/uploads/20251122-v2ray.txt
 - [AI交易](https://nofxai.vercel.app/)
 
 # 教程
-Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活。#永久免费VPN #永久免费节点
-- https://www.youtube.com/watch?v=XERxg9AODeo
+- [Huggingface 部署永久免费高速VPN节点，无限流量，解锁ChatGPT, 奈飞，油管等，无需保活。#永久免费VPN #永久免费节点](https://www.youtube.com/watch?v=XERxg9AODeo)
+
+- [Cloudflare“核弹级”永久免费节点！全新玩法！小白也能一行代码解锁高速节点，全协议！一劳永逸，告别VPN月付烦恼！YouTube晚高峰4K秒开！付费机场都沉默了。免费解锁chatgpt 流媒体](https://www.youtube.com/watch?v=u7CUE7nuozc)
 
 # 网站导航
 - <a href="https://nav2ai.vercel.app/" target="_blank">AI导航</a>
