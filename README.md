@@ -15,15 +15,13 @@
 **备用配置：**
 - Clash配置
 ```markdown
-- https://clashgithub.com/wp-content/uploads/rss/20251130.yml
-- https://free.datiya.com/uploads/20251130-clash.yaml
+- https://clashgithub.com/wp-content/uploads/rss/20251212.yml
+- https://free.datiya.com/uploads/20251212-clash.yaml
 ```
 - V2ray配置
 ```markdown
-https://free.datiya.com/uploads/20251130-v2ray.txt
+https://free.datiya.com/uploads/20251212-v2ray.txt
 ```
-
-**最后更新：** `2025-11-30`
 
 ## 🔍 使用指南
 
@@ -47,7 +45,7 @@ https://free.datiya.com/uploads/20251130-v2ray.txt
 - [链上第一衍生品交易平台-hyperliquid](https://app.hyperliquid.xyz/join/JFENG)
 - [零门槛买美股-MSX](https://msx.com/?code=SSL261)
 - [新人小白最友好的平台-okx](https://www.okx.com/join/2050388)
-- [AI自动交易-一键跟单](https://nofx.silentai.qzz.io/)
+- [AI自动交易-一键跟单套利](https://hype.silentai.qzz.io/)
 
 # 教程
 - [油管4K突破45万！目前最快+稳定的免费代理部署方案之一，碾压付费级VPS！ | TUIC+Vless双协议组合 | 远离QoS阻断 | 个人代理不封号](https://www.youtube.com/watch?v=mIYiAKy19fk)
