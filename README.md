@@ -1,9 +1,14 @@
 ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=zjfandroid.free) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 ### 目录
+- [免费AI工具](#免费AI工具)
 - [Clash/V2Ray 免费节点订阅](#免费节点订阅)
 - [免费资源网站](#免费资源网站)
 - [财务自由传送门](#财务自由传送门)
+- [教程](#教程)
+
+# 免费AI工具
+- [无限SnapGen免费Muse视频生成](https://snapgen.ai/auth/signup?ref=6QZX8CJ)
 
 # 免费节点订阅
 - Clash/SS/SSR/V2ray使用教程/机场推荐/直连网站/镜像网站/科学上网插件
@@ -15,15 +20,15 @@
 **备用配置：**
 - Clash配置
 ```markdown
-- https://clashgithub.com/wp-content/uploads/rss/20251130.yml
-- https://free.datiya.com/uploads/20251130-clash.yaml
+- https://clashgithub.com/wp-content/uploads/rss/20261029.yml
+- https://free.datiya.com/uploads/20261029-clash.yaml
 ```
 - V2ray配置
 ```markdown
-https://free.datiya.com/uploads/20251130-v2ray.txt
+https://free.datiya.com/uploads/20261029-clash.yaml
 ```
 
-**最后更新：** `2025-11-30`
+**最后更新：** `2026-10-29`
 
 ## 🔍 使用指南
 
